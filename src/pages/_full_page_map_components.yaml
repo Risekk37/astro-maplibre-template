@@ -37,7 +37,7 @@
   visible: false
   data-type: 'geojson'
   layer-type: 'circle'
-  url: './pulbic/data/squirrel20241021.geojson'
+  url: './pulbic/data/squirrel2.geojson'
   paint:
     ## this is get syntax
     ## 'fur_color_val' must the name of the
